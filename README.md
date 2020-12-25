@@ -1,2 +1,2 @@
 # ibm-courses
-Repository for saving my work on Cognitive Class by IBM
+This repository is for saving my projects that i worked on Cognitive Class provided by IBM.
